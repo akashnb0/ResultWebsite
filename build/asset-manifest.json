@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2e7b93fe.css",
+    "main.js": "/static/js/main.dee9add5.js",
+    "static/media/remixicon.svg?t=1590207869815": "/static/media/remixicon.9cedd2150922ead84869.svg",
+    "static/media/Typewriter black.jpg": "/static/media/Typewriter black.93d604552d5396740b70.jpg",
+    "static/media/Highspeed tamil.jpg": "/static/media/Highspeed tamil.1acfb3c72c644bfb23a5.jpg",
+    "static/media/remixicon.eot?t=1590207869815": "/static/media/remixicon.5cb99e6cba5a4619063f.eot",
+    "static/media/remixicon.ttf?t=1590207869815": "/static/media/remixicon.f2616f597cf98f38d234.ttf",
+    "static/media/TypeGIF.gif": "/static/media/TypeGIF.7cab7a1508c933c65986.gif",
+    "static/media/Highspeed english.jpg": "/static/media/Highspeed english.be69e95b7dcdff364131.jpg",
+    "static/media/Shorthand tamil.jpg": "/static/media/Shorthand tamil.46e86f96398f59d112f9.jpg",
+    "static/media/pitman english cropped.jpg": "/static/media/pitman english cropped.10469d13423df1178215.jpg",
+    "static/media/remixicon.woff?t=1590207869815": "/static/media/remixicon.8d09fa11700ed63cf96e.woff",
+    "static/media/remixicon.woff2?t=1590207869815": "/static/media/remixicon.90668f6f9b3c2c18a090.woff2",
+    "static/media/testimonial01.png": "/static/media/testimonial01.ef527bf36f2a27625c23.png",
+    "static/media/about-us.png": "/static/media/about-us.7cee11852f1eba53f13f.png",
+    "static/media/web-development.png": "/static/media/web-development.91ce53388df7bc88002c.png",
+    "static/media/shorthandinteerr.jpg": "/static/media/shorthandinteerr.0bd3fa8ccb658fd7d3c1.jpg",
+    "static/media/Typewriting with hand img.jpg": "/static/media/Typewriting with hand img.0566a67eb097adf6dfd0.jpg",
+    "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/index.html",
+    "main.2e7b93fe.css.map": "/static/css/main.2e7b93fe.css.map",
+    "main.dee9add5.js.map": "/static/js/main.dee9add5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2e7b93fe.css",
+    "static/js/main.dee9add5.js"
+  ]
+}
