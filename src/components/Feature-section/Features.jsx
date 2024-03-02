@@ -10,13 +10,13 @@ const FeatureData = [
   },
   {
     title: "Email",
-    desc: "saraswathitec@gmail.com",
+    desc: "akashsweb@gmail.com",
     icon: "ri-mail-line",
   },
 
   {
     title: "Contact",
-    desc: "+91 8072445317, +91 8220093377",
+    desc: "+91 8220093377",
     icon: "ri-contacts-line",
   },
 ];

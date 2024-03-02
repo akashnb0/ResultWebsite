@@ -18,7 +18,7 @@ const navLinks = [
   },
   {
     display: "Results",
-    url: "https://openinapp.co/results",
+    url: "https://oia.link/FinalResults",
   },
   {
     display: "Login",
