@@ -13,16 +13,25 @@ const navLinks = [
   },
 
   {
-    display: "Courses",
-    url: "#courses",
+    display: "COA Login",
+    url: "https://sticoa.vercel.app",
   },
   {
-    display: "Results",
+    display: "COA Results",
+    url: "https://sticoa.vercel.app",
+  },
+  {
+    display: "Type Login",
+    url: "#mail",
+  },
+  {
+    display: "Type Results",
     url: "https://oia.link/FinalResults",
   },
+  
   {
-    display: "Login",
-    url: "#mail",
+    display: "Courses",
+    url: "#courses",
   },
   {
     display: "Contact",
