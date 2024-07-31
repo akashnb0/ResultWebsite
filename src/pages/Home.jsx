@@ -13,12 +13,12 @@ const Home = () => {
     <Fragment>
       <Header />
       <HeroSection />
-      <AboutUs />
+{/*       <AboutUs />
       <FreeCourse />
       <Testimonials />
       <Newsletter />
       <Features />
-      <Footer />
+      <Footer /> */}
     </Fragment>
   );
 };
