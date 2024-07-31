@@ -4,13 +4,19 @@ import "./header.css";
 
 const navLinks = [
   {
+    display: "Type Results ⭐",
+    url: "https://script.google.com/a/~/macros/s/AKfycbymORzaMIcO9tgEn14ccLHX7dg2RsgWCG8AsKKdV-wZ99Bf43Seh_b2n3_sOh3Nl1Ct/exec",
+  },
+  {
     display: "Home",
     url: "#home",
   },
+  
   {
     display: "About",
     url: "#about",
   },
+  
 
   {
     display: "COA Login",
@@ -18,15 +24,11 @@ const navLinks = [
   },
   {
     display: "COA Results",
-    url: "https://sticoa.vercel.app",
+    url: "https://script.google.com/a/~/macros/s/AKfycbymORzaMIcO9tgEn14ccLHX7dg2RsgWCG8AsKKdV-wZ99Bf43Seh_b2n3_sOh3Nl1Ct/exec",
   },
   {
     display: "Type Login",
     url: "#mail",
-  },
-  {
-    display: "Type Results",
-    url: "https://oia.link/FinalResults",
   },
   
   {
