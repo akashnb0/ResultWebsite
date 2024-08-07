@@ -5,7 +5,7 @@ import "./header.css";
 const navLinks = [
   {
     display: "Type Results ⭐",
-    url: "https://script.google.com/a/~/macros/s/AKfycbymORzaMIcO9tgEn14ccLHX7dg2RsgWCG8AsKKdV-wZ99Bf43Seh_b2n3_sOh3Nl1Ct/exec",
+    url: "https://script.google.com/a/~/macros/s/AKfycbxzMh9wR-Bkm0ud1ybz-ufDnrJGzKQ_HX6-dTs0XG23Xa-sdg18TJoPKN8NS8DH7gQe/exec",
   },
   {
     display: "Home",
