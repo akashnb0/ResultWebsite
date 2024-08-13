@@ -4,8 +4,8 @@ import "./header.css";
 
 const navLinks = [
   {
-    display: "Type Results ⭐",
-    url: "https://script.google.com/a/~/macros/s/AKfycbxzMh9wR-Bkm0ud1ybz-ufDnrJGzKQ_HX6-dTs0XG23Xa-sdg18TJoPKN8NS8DH7gQe/exec",
+    display: "Type Results ❤️‍🔥",
+    url: "https://script.google.com/a/~/macros/s/AKfycbzklsIFBIoSUU_WW8bXuxomyNs4MFZW0vNB-zSsRppveTQy13HOox7iaQLlpF7D5HnP/exec",
   },
   {
     display: "Home",
